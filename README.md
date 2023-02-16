@@ -11,7 +11,7 @@
 ### Boş kısımları görseldeki gibi dolduruyoruz. Target tags kısmına istediğinizi yazabilirsiniz (Daha sonra kullanacağız)
 ![Alt text](/3.png?raw=true)
 
-### 4-Daha sonra Vm instance kısmına geliyoruz ve açtığımız sunucunun üstüne tıklıyoruz
+### 4-Daha sonra VM instances kısmına geliyoruz ve açtığımız sunucunun üstüne tıklıyoruz
 ![Alt text](/4.png?raw=true)
 
 ### 5-Edit butonuna tıklayalım
