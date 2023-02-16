@@ -4,7 +4,7 @@
 
 ![Alt text](/1.png?raw=true "1")
 
-### 2-Create Firewall seçeneğini seçiyoruz
+### 2-Create Firewall Rule seçeneğini seçiyoruz
 ![Alt text](/2.png?raw=true)
 
 ### 3-Görselde olmayan 'Name' kısmına rastgele bir şey yazabilirsiniz
