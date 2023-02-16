@@ -1,5 +1,7 @@
 # Shardeum-GoogleCloud-Baglanma
 
+Arama kısmına Fairwall yazıyoruz ve görseldeki seçenegi seçiyoruz
+
 ![Alt text](/1.png?raw=true "1")
 
 ![Alt text](/2.png?raw=true)
