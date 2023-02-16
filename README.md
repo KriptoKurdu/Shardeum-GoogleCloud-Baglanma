@@ -19,3 +19,5 @@
 ## Network tags kısmına daha önce yazdığımız tagi yazalım port yazmıştım ben
 ![Alt text](/6.png?raw=true)
 
+# Değişikl,ikleri kaydederek tekrardan https://ipAdresi:8080 yazarak dashborda baglanarak işlemlerinize videodaki gibi devam edebilirsiniz.
+
